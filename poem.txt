@@ -3,7 +3,6 @@ Orange
 Yellow
 Green
 Blue
-Indigo
 Violet
 
 those are the colours of the rainbow
